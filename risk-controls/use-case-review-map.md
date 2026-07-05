@@ -1,76 +1,30 @@
 # AI Use Case Review Map
 
-This map gives teams a practical way to review AI use cases before they move into production.
-
 ## Purpose
 
-Use this map to connect the use case, the model risk, the data risk, and the approval path.
+The review map connects AI use case types to the controls and review depth they require.
 
-## Review Areas
+## Use Case Types
 
-### 1. Use Case Definition
+- internal productivity assistant
+- customer-facing chatbot
+- forecasting model
+- decision support model
+- automated action model
 
-- business problem
-- intended outcome
+## Review Considerations
+
+- data sensitivity
 - user impact
-- decision scope
+- explainability
+- bias risk
+- approval requirement
 
-### 2. Data Risk
+## Example Map
 
-- source quality
-- privacy exposure
-- sensitive data handling
-- retention and access rules
-
-### 3. Model Risk
-
-- model type
-- training source
-- explainability need
-- failure mode assessment
-
-### 4. Responsible AI Controls
-
-- fairness review
-- human oversight
-- transparency requirements
-- escalation path
-
-### 5. Governance Approval
-
-- review owner
-- approval authority
-- exception handling
-- re-review cadence
-
-## Example Review Table
-
-| Use Case | Data Risk | Model Risk | Responsible AI Check | Status |
-| --- | --- | --- | --- | --- |
-| Customer Support Assistant | Medium | Medium | Human review required | Conditional |
-| Fraud Triage Model | High | High | Bias and escalation review | Needs Approval |
-| Internal Knowledge Search | Low | Low | Transparency notice | Approved |
-
-## Operating Rhythm
-
-Recommended cadence:
-
-1. Pre-launch use case review
-2. Monthly governance review for active AI use cases
-3. Quarterly model and data risk review
-4. Event-driven review after model or data changes
-
-## Recommended Actions
-
-- require a named owner for every AI use case
-- classify data and model risk before approval
-- define fallback behavior when AI output is uncertain
-- re-review each use case when scope changes
-
-## Related Artifacts
-
-- [AI Review Workflow](../governance-models/ai-review-workflow.md)
-- [AI Governance Board](../governance-models/ai-governance-board.md)
-- [AI Risk Assessment Template](../templates/ai-risk-assessment-template.md)
-- [AI Use Case Review Template](../templates/ai-use-case-review-template.md)
-- [Responsible AI Checklist](../templates/responsible-ai-checklist.md)
+| Use Case | Review Depth | Main Risks |
+| --- | --- | --- |
+| Internal assistant | Standard | Data leakage, inappropriate output |
+| Customer chatbot | Enhanced | Safety, privacy, brand risk |
+| Decision support | Enhanced | Explainability, bias, accountability |
+| Automated action | Full board review | Operational and business risk |

@@ -19,6 +19,14 @@ This repository helps teams define and manage:
 - compliance alignment
 - AI use case review workflows
 
+## How To Use This Repo
+
+1. Read the framework overview and operating model.
+2. Review the responsible AI controls and model risk guidance.
+3. Use the use case review map and templates to evaluate AI proposals.
+4. Track risks in the control matrix and risk register.
+5. Reassess the maturity model and research roadmap over time.
+
 ## Core Content
 
 - [Framework Overview](docs/framework-overview.md)
@@ -59,11 +67,3 @@ This repository helps teams define and manage:
 - [Cloud Risk and Compliance Controls](../cloud-risk-compliance-controls/README.md)
 - [AI-Driven Observability Framework](../ai-driven-observability-framework/README.md)
 - [Enterprise Architecture Blueprints](../enterprise-architecture-blueprints/README.md)
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the AI use case review map.
-3. Review the operating model and control matrix.
-4. Use the review templates for AI use cases.
-5. Expand the maturity model and research roadmap next.
