@@ -10,6 +10,8 @@ The AI governance board reviews use cases, risks, and control requirements befor
 - approve or reject exceptions
 - ensure accountability
 - review monitoring outcomes
+- confirm escalation paths
+- request additional evidence when needed
 
 ## Outputs
 
@@ -17,3 +19,7 @@ The AI governance board reviews use cases, risks, and control requirements befor
 - conditions
 - rejection
 - follow-up actions
+
+## Board Use
+
+Use this board model when a use case needs human accountability before deployment or expansion.

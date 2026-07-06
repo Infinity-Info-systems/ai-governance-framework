@@ -11,6 +11,7 @@ Model risk management identifies how models can fail, drift, or behave in ways t
 - explainability risk
 - bias risk
 - operational risk
+- legal and reputational risk
 
 ## Operating Questions
 
@@ -25,3 +26,7 @@ Model risk management identifies how models can fail, drift, or behave in ways t
 - test results
 - monitoring plan
 - escalation path
+
+## Management Rule
+
+Every material model risk should have an owner, a mitigation path, and a review date.

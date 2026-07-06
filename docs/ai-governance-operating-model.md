@@ -11,6 +11,8 @@ The operating model defines how AI use cases are proposed, reviewed, approved, m
 - control review
 - board approval
 - monitoring and revalidation
+- exception management
+- evidence retention
 
 ## Operating Questions
 
@@ -18,6 +20,7 @@ The operating model defines how AI use cases are proposed, reviewed, approved, m
 - what data is being used?
 - what control review is required?
 - what is the approval path?
+- what evidence proves the control is active?
 
 ## Evidence To Collect
 
@@ -25,3 +28,4 @@ The operating model defines how AI use cases are proposed, reviewed, approved, m
 - risk assessment
 - approval record
 - monitoring notes
+- review outcome

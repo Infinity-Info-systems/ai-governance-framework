@@ -11,6 +11,8 @@ Data risk controls reduce the likelihood of sensitive, low-quality, or unsuitabl
 - masking or anonymization
 - retention
 - lineage and source validation
+- privacy review
+- data quality checks
 
 ## Evidence To Collect
 
@@ -18,3 +20,7 @@ Data risk controls reduce the likelihood of sensitive, low-quality, or unsuitabl
 - access logs
 - masking evidence
 - lineage review
+
+## Data Rule
+
+If the data cannot be explained, trusted, and limited appropriately, the AI use case should not move forward.

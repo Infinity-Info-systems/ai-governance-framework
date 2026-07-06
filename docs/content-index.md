@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for AI governance, responsible AI controls, and model risk management.
+Use it as the quickest route to the page that explains the governance decision you need to make.
 
 ## Entry Points
 
@@ -31,6 +32,15 @@ This index organizes the repo into a front door for AI governance, responsible A
 - [Bibliography](../references/bibliography.md)
 - [Research Links](../publications/research-links.md)
 
+## Reading Order
+
+1. Framework overview
+2. AI governance operating model
+3. AI use case review map
+4. AI control matrix
+5. Risk register and review templates
+
 ## Shared Direction
 
 Use the same section structure as the other core repos so AI governance content stays reusable and easy to extend.
+Write every page so the review path is obvious to both technical and executive readers.

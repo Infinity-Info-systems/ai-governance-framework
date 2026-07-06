@@ -11,6 +11,8 @@ The control matrix maps AI risk areas to the controls, evidence, and owners need
 - model validation
 - output review
 - monitoring and retraining
+- exception handling
+- manual override
 
 ## Example Matrix
 
@@ -21,3 +23,7 @@ The control matrix maps AI risk areas to the controls, evidence, and owners need
 | Model | Validation testing | Test results | Model owner |
 | Output | Human oversight | Review record | Business owner |
 | Monitoring | Drift review | Monitoring report | Operations |
+
+## Matrix Guidance
+
+Keep the matrix tied to actual evidence, not just policy language, so reviewers can see what proves the control is working.

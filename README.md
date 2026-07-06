@@ -5,6 +5,7 @@
 This repository contains the governance model for responsible AI, model risk, data risk, and AI review workflows.
 
 It focuses on AI control design, compliance alignment, board oversight, and risk management for enterprise AI use cases.
+It is intended to help teams move from AI experimentation to governed, reviewable delivery.
 
 ## Why It Matters
 
@@ -18,6 +19,16 @@ This repository helps teams define and manage:
 - data security and privacy
 - compliance alignment
 - AI use case review workflows
+- decision traceability
+- repeatable governance intake
+
+## Content Model
+
+This repository is most useful when each page plays one of three roles:
+
+- explain the governance model
+- map AI use cases to controls and risks
+- provide reusable review and assessment artifacts
 
 ## How To Use This Repo
 
@@ -26,6 +37,7 @@ This repository helps teams define and manage:
 3. Use the use case review map and templates to evaluate AI proposals.
 4. Track risks in the control matrix and risk register.
 5. Reassess the maturity model and research roadmap over time.
+6. Keep terminology consistent across governance, controls, and review templates.
 
 ## Core Content
 
@@ -37,6 +49,9 @@ This repository helps teams define and manage:
 - [Model Risk Management](docs/model-risk-management.md)
 - [Data Security and Privacy](docs/data-security-and-privacy.md)
 - [Compliance Alignment](docs/compliance-alignment.md)
+- [AI Governance Maturity](maturity-model/ai-governance-maturity.md)
+- [Research Roadmap](evidence/research-roadmap.md)
+- [Research Links](publications/research-links.md)
 
 ## Governance Models
 

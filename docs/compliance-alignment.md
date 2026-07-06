@@ -11,6 +11,8 @@ Compliance alignment maps AI controls to applicable regulatory, contractual, and
 - audit evidence
 - model documentation
 - monitoring and review
+- policy exceptions
+- periodic reassessment
 
 ## Evidence To Collect
 
@@ -18,3 +20,7 @@ Compliance alignment maps AI controls to applicable regulatory, contractual, and
 - approval records
 - audit artifacts
 - review history
+
+## Alignment Outcome
+
+The aim is to show how the AI governance model satisfies internal policy, external regulation, and practical operating expectations at the same time.

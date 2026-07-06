@@ -11,6 +11,8 @@ Responsible AI controls reduce the risk of unsafe, unfair, unexplainable, or poo
 - data quality
 - bias and fairness review
 - monitoring and retraining
+- explainability
+- content safety
 
 ## Control Questions
 
@@ -25,3 +27,7 @@ Responsible AI controls reduce the risk of unsafe, unfair, unexplainable, or poo
 - testing notes
 - model documentation
 - monitoring results
+
+## Control Principle
+
+Responsible AI controls should be visible in the workflow, not hidden as a separate after-the-fact review step.

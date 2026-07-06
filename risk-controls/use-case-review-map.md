@@ -19,6 +19,8 @@ The review map connects AI use case types to the controls and review depth they 
 - explainability
 - bias risk
 - approval requirement
+- automation level
+- brand and trust impact
 
 ## Example Map
 
@@ -28,3 +30,7 @@ The review map connects AI use case types to the controls and review depth they 
 | Customer chatbot | Enhanced | Safety, privacy, brand risk |
 | Decision support | Enhanced | Explainability, bias, accountability |
 | Automated action | Full board review | Operational and business risk |
+
+## Use
+
+This map should help teams decide how much governance effort a proposed AI use case needs before release.

@@ -12,6 +12,8 @@ Track model risks, owners, and remediation actions for AI use cases.
 - impact
 - mitigation
 - review date
+- status
+- evidence link
 
 ## Example Risks
 
@@ -19,3 +21,7 @@ Track model risks, owners, and remediation actions for AI use cases.
 - training data issues
 - drift
 - unsupported automation
+
+## Register Guidance
+
+Use the register to keep active model risks visible until they are mitigated, accepted, or retired.

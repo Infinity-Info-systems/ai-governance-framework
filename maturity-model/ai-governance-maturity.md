@@ -29,3 +29,7 @@
 - governance is embedded in delivery
 - monitoring informs improvements
 - decisions are traceable and repeatable
+
+## Use Guidance
+
+Use the maturity model to decide whether the organization is ready to scale its AI portfolio or whether governance foundations still need reinforcement.

@@ -11,6 +11,8 @@ This doc defines how AI use cases should manage sensitive data, access, retentio
 - retention
 - masking or anonymization
 - privacy review
+- source validation
+- data minimization
 
 ## Evidence To Collect
 
@@ -18,3 +20,7 @@ This doc defines how AI use cases should manage sensitive data, access, retentio
 - privacy review
 - access controls
 - retention rules
+
+## Practical Use
+
+This page should help reviewers confirm that the AI use case is using the minimum necessary data and handling it in a controlled way.
