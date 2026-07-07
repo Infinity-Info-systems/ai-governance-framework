@@ -3,6 +3,7 @@
 ## Purpose
 
 The operating model defines how AI use cases are proposed, reviewed, approved, monitored, and retired.
+It gives the organization one predictable path for routing AI decisions and keeping evidence attached to the outcome.
 
 ## Operating Areas
 
@@ -13,6 +14,14 @@ The operating model defines how AI use cases are proposed, reviewed, approved, m
 - monitoring and revalidation
 - exception management
 - evidence retention
+
+## Use
+
+Use this page to decide who owns the review, which teams must sign off, and what can move forward under exception.
+
+## Outcome
+
+The operating model keeps AI governance repeatable, reviewable, and easy to explain to business leaders.
 
 ## Operating Questions
 

@@ -3,7 +3,7 @@
 ## What This Repository Does
 
 This repository provides a governance framework for enterprise AI use cases, covering responsible AI controls, model risk, data risk, compliance, and review workflows.
-It gives the organization a repeatable way to decide whether an AI use case is ready to proceed.
+It gives the organization a repeatable way to decide whether an AI use case is ready to proceed and what evidence must exist before it does.
 
 ## What It Covers
 
@@ -44,3 +44,12 @@ When the framework is used consistently, teams can review AI use cases faster an
 - use case review map
 - risk register
 - maturity model
+
+## How To Read It
+
+Start with the operating model, then move into controls and review flow.
+That sequence keeps the governance discussion focused on decision rights first and artifacts second.
+
+## Result
+
+The framework reduces review friction by making the approval path predictable for product teams, risk teams, and executives.
