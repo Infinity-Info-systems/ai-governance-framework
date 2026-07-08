@@ -49,7 +49,3 @@ The operating model keeps AI governance repeatable, reviewable, and easy to expl
 - approval record
 - monitoring notes
 - review outcome
-
-## Outcome
-
-The operating model keeps AI governance repeatable, reviewable, and easy to explain to business leaders.

@@ -26,6 +26,16 @@ It is the working table that shows who owns each control and what proves it is a
 | Monitoring | Drift review | Monitoring report | Operations |
 | Exception handling | Time-bound exception log | Exception record | Risk owner |
 
+## Figure
+
+```mermaid
+flowchart LR
+  A[Risk Area] --> B[Control]
+  B --> C[Evidence]
+  C --> D[Owner]
+  D --> E[Review Cadence]
+```
+
 ## Matrix Guidance
 
 Keep the matrix tied to actual evidence, not just policy language, so reviewers can see what proves the control is working.
