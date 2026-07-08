@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for AI governance, responsible AI controls, and model risk management.
 Use it as the quickest route to the page that explains the governance decision you need to make.
+The content is ordered so a reviewer can move from the policy frame into the control evidence without guessing where to start.
 The pages are ordered so a reviewer can move from the policy frame into the control evidence without guessing where to start.
 
 ## Entry Points
@@ -45,4 +46,5 @@ The pages are ordered so a reviewer can move from the policy frame into the cont
 
 Use the same section structure as the other core repos so AI governance content stays reusable and easy to extend.
 Write every page so the review path is obvious to both technical and executive readers.
+If a page does not help approve, reject, or monitor an AI use case, move that detail into a more specific artifact.
 If a page is not helping someone approve, reject, or monitor an AI use case, it should be folded into a more specific artifact.

@@ -15,6 +15,17 @@ It gives the organization one predictable path for routing AI decisions and keep
 - exception management
 - evidence retention
 
+## Operating Flow
+
+```mermaid
+flowchart LR
+  A[Intake] --> B[Risk Classification]
+  B --> C[Control Review]
+  C --> D[Approval]
+  D --> E[Monitoring]
+  E --> F[Reassessment]
+```
+
 ## Use
 
 Use this page to decide who owns the review, which teams must sign off, and what can move forward under exception.
@@ -38,3 +49,7 @@ The operating model keeps AI governance repeatable, reviewable, and easy to expl
 - approval record
 - monitoring notes
 - review outcome
+
+## Outcome
+
+The operating model keeps AI governance repeatable, reviewable, and easy to explain to business leaders.

@@ -6,6 +6,7 @@ This repository contains the governance model for responsible AI, model risk, da
 
 It focuses on AI control design, compliance alignment, board oversight, and risk management for enterprise AI use cases.
 It is intended to help teams move from AI experimentation to governed, reviewable delivery with clear decision rights and traceable controls.
+The goal is to make the approval path clear enough that teams can move quickly without losing governance discipline.
 
 ## Why It Matters
 
@@ -24,6 +25,13 @@ This repository helps teams define and manage:
 - repeatable governance intake
 - evidence for audit and executive review
 - consistent criteria across business units
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [Cloud Risk and Compliance Controls](../cloud-risk-compliance-controls/README.md)
+- [AI-Driven Observability Framework](../ai-driven-observability-framework/README.md)
+- [Enterprise Architecture Blueprints](../enterprise-architecture-blueprints/README.md)
 
 ## Content Model
 
@@ -95,3 +103,13 @@ It helps leaders answer three questions quickly:
 - Is the use case acceptable?
 - What controls and approvals are required?
 - How will we evidence the decision later?
+
+## Quick View
+
+| Governance Area | What It Controls | Typical Evidence |
+| --- | --- | --- |
+| Use case review | Whether the use case can proceed | Decision log |
+| Data risk | Whether the data is acceptable | Privacy review |
+| Model risk | Whether the model behaves as expected | Validation report |
+| Output oversight | Whether people review outputs | Review records |
+| Monitoring | Whether drift is detected and handled | Monitoring report |
