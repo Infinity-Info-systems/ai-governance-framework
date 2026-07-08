@@ -6,6 +6,17 @@ This repository provides a governance framework for enterprise AI use cases, cov
 It gives the organization a repeatable way to decide whether an AI use case is ready to proceed and what evidence must exist before it does.
 The framework is designed to make review faster, clearer, and easier to audit.
 
+## Governance Flow
+
+```mermaid
+flowchart LR
+    A["Intake"] --> B["Risk Classification"]
+    B --> C["Control Review"]
+    C --> D["Approval"]
+    D --> E["Monitoring"]
+    E --> F["Reassessment"]
+```
+
 ## What It Covers
 
 - AI governance operating model
@@ -55,11 +66,16 @@ When the framework is used consistently, teams can review AI use cases faster an
 - risk register
 - maturity model
 
-## How To Read It
+## Governance Layers
 
-Start with the operating model, then move into controls and review flow.
-That sequence keeps the governance discussion focused on decision rights first and artifacts second.
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Intake | What is being proposed? | Review intake form |
+| Risk | What could go wrong? | Risk assessment |
+| Control | What must be in place? | Control matrix |
+| Decision | Who approves it? | Approval record |
+| Monitoring | How do we know it stayed safe? | Monitoring notes |
 
-## Result
+## Decision Rule
 
-The framework reduces review friction by making the approval path predictable for product teams, risk teams, and executives.
+If the use case cannot be explained in terms of risk, control, and ownership, it is not ready for approval.

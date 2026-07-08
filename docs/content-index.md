@@ -6,6 +6,17 @@ This index organizes the repo into a front door for AI governance, responsible A
 Use it as the quickest route to the page that explains the governance decision you need to make.
 The content is ordered so a reviewer can move from the policy frame into the control evidence without guessing where to start.
 
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Framework Overview | Understand the decision model |
+| 2 | AI Governance Operating Model | See who reviews and approves |
+| 3 | Responsible AI Controls | Review the control expectations |
+| 4 | Model Risk Management | Understand model-specific risk |
+| 5 | Data Security and Privacy | Confirm data handling requirements |
+| 6 | Compliance Alignment | Map AI governance to obligations |
+
 ## Entry Points
 
 - [Framework Overview](./framework-overview.md)
@@ -46,3 +57,12 @@ The content is ordered so a reviewer can move from the policy frame into the con
 Use the same section structure as the other core repos so AI governance content stays reusable and easy to extend.
 Write every page so the review path is obvious to both technical and executive readers.
 If a page does not help approve, reject, or monitor an AI use case, it should be folded into a more specific artifact.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Approve an AI use case | AI Governance Operating Model |
+| Review controls | Responsible AI Controls |
+| Assess model risk | Model Risk Management |
+| Assess data risk | Data Security and Privacy |

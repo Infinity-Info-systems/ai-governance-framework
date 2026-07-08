@@ -49,3 +49,17 @@ The operating model keeps AI governance repeatable, reviewable, and easy to expl
 - approval record
 - monitoring notes
 - review outcome
+
+## Operating Table
+
+| Stage | Owner | Output |
+| --- | --- | --- |
+| Intake | Product / business sponsor | Use case summary |
+| Classification | Risk or governance lead | Risk tier and review path |
+| Review | Control and subject matter reviewers | Review decision |
+| Approval | Governance board or delegate | Approval record |
+| Monitoring | Service owner | Reassessment evidence |
+
+## Operating Rule
+
+Every AI use case should have a named owner, a review path, and a monitoring checkpoint before release.
