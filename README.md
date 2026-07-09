@@ -65,6 +65,11 @@ This repository is most useful when each page plays one of three roles:
 - [Research Roadmap](evidence/research-roadmap.md)
 - [Research Links](publications/research-links.md)
 
+## Code Direction
+
+This repo now includes a typed governance registry in `src/` so AI intake, review, approval, and monitoring can be reused in tools or future app pages.
+The code layer mirrors the governance flow, risk levels, and approval path described in the framework pages.
+
 ## Governance Models
 
 - [AI Governance Board](governance-models/ai-governance-board.md)
